@@ -1,6 +1,5 @@
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\SaluUntBistro\obj\Debug\SaluUntBistro.csprojAssemblyReference.cache
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\SaluUntBistro\obj\Debug\SaluUntBistro.csproj.CoreCompileInputs.cache
-D:\Skrivbord\SaluUntBistro\SaluUntBistro\SaluUntBistro\bin\Debug\SaluUntBistro.dll.config
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\SaluUntBistro\bin\Debug\SaluUntBistro.dll
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\SaluUntBistro\bin\Debug\SaluUntBistro.pdb
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\SaluUntBistro\bin\Debug\Dapper.dll

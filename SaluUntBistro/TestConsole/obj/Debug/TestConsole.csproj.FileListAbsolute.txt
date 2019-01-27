@@ -4,7 +4,6 @@ D:\Skrivbord\SaluUntBistro\SaluUntBistro\TestConsole\bin\Debug\TestConsole.pdb
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\TestConsole\bin\Debug\SaluUntBistro.dll
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\TestConsole\bin\Debug\Dapper.dll
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\TestConsole\bin\Debug\SaluUntBistro.pdb
-D:\Skrivbord\SaluUntBistro\SaluUntBistro\TestConsole\bin\Debug\SaluUntBistro.dll.config
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\TestConsole\bin\Debug\Dapper.xml
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
 D:\Skrivbord\SaluUntBistro\SaluUntBistro\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
